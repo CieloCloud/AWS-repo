@@ -1,8 +1,5 @@
 x=a+b
 
 #addition
-x=a+b+c
-
-
-
+y=a-b
 
